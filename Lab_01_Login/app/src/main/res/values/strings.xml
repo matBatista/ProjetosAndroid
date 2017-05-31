@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_01_Login</string>
+    <string name="title_login">Login</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_senha">Senha</string>
+    <string name="label_botao_cancelar">Cancelar</string>
+    <string name="label_botao_login">Login</string>
+    <string name="erro_msg_nome_obrigatorio">Erro: Nome é Obrigatorio!!!</string>
+</resources>

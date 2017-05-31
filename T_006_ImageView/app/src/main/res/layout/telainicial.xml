@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Imagens"
+        android:textSize="25sp"
+        android:background="@drawable/btn_erase_selected"/>
+
+
+    <ImageView
+        android:id="@+id/iv_foto"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="#FF000000"
+        android:src="@drawable/ic_build_black_24px" />
+
+    <Button
+        android:id="@+id/btn_projeto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Projeto" />
+
+    <Button
+        android:id="@+id/btn_sdcard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SDCARD" />
+
+    <TextView
+        android:id="@+id/txtDados"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/ic_build_black_24px"
+        android:text="É Nois Veio"
+        android:textSize="25sp"
+        />
+
+
+</LinearLayout>

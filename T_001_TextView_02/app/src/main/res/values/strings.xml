@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">T_001_TextView_02</string>
+
+    <string name="titulo_formulario">Save Form</string>
+    <string name="titulo_formulario1">Save Form</string>
+    <string name="titulo_formulario2">Save Form</string>
+    <string name="titulo_formulario3">Save Form</string>
+    <string name="titulo_formulario4">Save Form</string>
+
+</resources>
